@@ -1,5 +1,5 @@
 
-<a href="@vladislav_acc">
+<a href="https://t.me/vladislav_acc" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>                   
 
